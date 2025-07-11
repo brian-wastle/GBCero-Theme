@@ -1,4 +1,4 @@
-# GBCero
+# GBCero-Theme
 
 It's a minimalist Retropie theme for my Gameboy Zero build (Gameboy Cero). 
 
