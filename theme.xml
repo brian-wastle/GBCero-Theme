@@ -17,9 +17,9 @@ website:		github.com/brian-wastle
 		</image>
 		<textlist name="systemList">
 			<pos>0.163 0.175</pos>
-			<size>0.600 0.617</size>
+			<size>0.577 0.617</size>
 			<fontPath>./_inc/fonts/MiniGameboy.ttf</fontPath>
-			<size>0.058</size>
+			<fontSize>0.058</fontSize>
 			<lineSpacing>1</lineSpacing>
 			<alignment>left</alignment>
 			<primaryColor>0F380FFF</primaryColor>
@@ -35,9 +35,10 @@ website:		github.com/brian-wastle
 
 	<view name="basic">
 		<textlist name="gamelist">
-			<pos>0.163 0.175</pos><size>0.600 0.617</size>
+			<pos>0.163 0.175</pos>
+			<size>0.577 0.617</size>
 			<fontPath>./_inc/fonts/MiniGameboy.ttf</fontPath>
-			<size>0.058</size>
+			<fontSize>0.058</fontSize>
 			<lineSpacing>1</lineSpacing>
 			<alignment>left</alignment>
 			<primaryColor>0F380FFF</primaryColor>
