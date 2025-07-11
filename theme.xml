@@ -1,0 +1,47 @@
+<!--
+theme name:		GameboyCero
+version:		1.0
+author:			Brian Wastle
+email:			brian.wastle1@gmail.com
+website:		github.com/brian-wastle
+-->
+
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<image name="background">
+			<path>./_inc/images/gb_bg.png</path>
+			<pos>0 0</pos>
+			<size>1 1</size>
+		</image>
+		<textlist name="systemList">
+			<pos>0.163 0.175</pos>
+			<size>0.600 0.617</size>
+			<fontPath>./_inc/fonts/MiniGameboy.ttf</fontPath>
+			<size>0.058</size>
+			<lineSpacing>1</lineSpacing>
+			<alignment>left</alignment>
+			<primaryColor>0F380FFF</primaryColor>
+			<selectedColor>306230FF</selectedColor>
+		</textlist>
+		<image name="overlay" extra="true"> 
+			<path>./_inc/images/system_overlay.png</path>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<zIndex>10</zIndex>
+		</image>
+	</view>
+
+	<view name="basic">
+		<textlist name="gamelist">
+			<pos>0.163 0.175</pos><size>0.600 0.617</size>
+			<fontPath>./_inc/fonts/MiniGameboy.ttf</fontPath>
+			<size>0.058</size>
+			<lineSpacing>1</lineSpacing>
+			<alignment>left</alignment>
+			<primaryColor>0F380FFF</primaryColor>
+			<selectedColor>306230FF</selectedColor>
+		</textlist>
+	</view>
+</theme>
