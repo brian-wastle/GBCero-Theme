@@ -11,6 +11,8 @@ Designed for a 320x240 pixel display, but the actual viewing area is only 240x20
 
 This theme is specifically designed for a 3.5" LCD TFT display at 320x240 resolution without removing any of the plastic on the Gameboy's DMG-01 case.
 
+
+
 However, you will need to align the display with the window in the case properly for this theme to work out-of-box.
 
 
